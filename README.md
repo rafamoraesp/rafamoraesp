@@ -1,4 +1,4 @@
-Olá, me chamo Rafael Moraes. 
+Olá, me chamo Rafael Moraes, 
  Meu foco é a área de Qualidade. Teste de Software, testes manuais e automatizados. 
   Contribuir com as equipes de desenvolvimento com todas as técnicas e metodologias pertinentes ao projeto. 
 
@@ -12,5 +12,3 @@ Sempre que avançar no domínio das "hard skills", farei questão de ajudar a co
 Onde me encontrar: 
    rafamoraesp@gmail.com
    linkedin.com/in/rafamoraesp
-
-
