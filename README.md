@@ -1,7 +1,7 @@
-Olá, me chamo Rafael Moraes. Meu foco é a área de Qualidade. Teste de Software, testes manuais e automatizados. Contribuir com as equipes de desenvolvimento com todas as técnicas e metodologias pertinentes ao projeto.
+Olá, me chamo Rafael Moraes. Foco na área de Qualidade. Teste de Software, testes manuais e automatizados. Contribuir com as equipes de desenvolvimento com todas as técnicas e metodologias pertinentes ao projeto.
 
-Estou estudando a linguagem Ruby, praticando para aprimorar a lógica e algoritmos. Desenvolvendo pequenos projetos para uma base sólida. (Como estou aprendendo, possívelmente meus códigos devem precisar de várias melhorias e refatoração. Com o tempo irei subir novos códigos melhorados, mantendo o histórico de aprendizagem)
+Estou estudando a linguagem Ruby, praticando lógica, algoritmos e refatoração. Desenvolvendo pequenos projetos para uma base sólida. 
 
-Sempre que avançar no domínio das "hard skills", farei questão de ajudar a comunidade de estudantes e profissionais. (Assim como venho sendo apoiado por diversos conteúdos publicados)
+Ao dominar as "hard skills", gostaria de ajudar a comunidade de estudantes e profissionais. (Assim como venho sendo apoiado por diversos conteúdos publicados)
 
 Onde me encontrar: rafamoraesp@gmail.com linkedin.com/in/rafamoraesp
