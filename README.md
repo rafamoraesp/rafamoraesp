@@ -10,5 +10,5 @@ Where to find me:  <br>
 
 </a>
 
-<a href="mailto:<rafamoraesp@gmail.com>" alt="gmail" target="_blank">
+<a href="mailto:rafamoraesp@gmail.com" alt="gmail" target="_blank">
 <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:<rafamoraesp@gmail.com>" /></a> 
