@@ -1,4 +1,4 @@
-**Hello :earth_americas:, my name is Rafael Moraes :brazil:. My interest is the Quality Assurance area's. Manual and Automated Testing. Contribute to development teams with all techniques and methodologies relevant to the projects.**
+**Hello :earth_americas:, my name is Rafael Moraes. My interest is the Quality Assurance area's. Manual and Automated Testing. Contribute to development teams with all techniques and methodologies relevant to the projects.**
 
 **Currently studying the Ruby language, knowing libraries and frameworks.**
 
