@@ -6,13 +6,8 @@
 
 
 
-Where to find me:  <br>
+Where to find me:  
 
-<a href="https://www.linkedin.com/in/rafamoraesp" alt="linkedin" target="_blank">
 
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
-
-</a>
-
-<a href="mailto:rafamoraesp@gmail.com" alt="gmail" target="_blank">
-<img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:<rafamoraesp@gmail.com>" /></a> 
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="rafamoraesp" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/rafamoraesp?trk=profile-badge">Rafael Moraes</a></div>
+              
