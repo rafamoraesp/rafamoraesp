@@ -1,4 +1,4 @@
-**Hello🌎, my name is Rafael Moraes. Beginner in the field of Quality Testing / QA. Manual and automated tests.
+**Hello🌎, my name is Rafael Moraes. Beginner in the field of Software Testing / QA. Manual and automated tests.
 I practice Programming Logic, practicing the Javascript and Java languages. I also know a little bit of Ruby and Python**
 <br>
 <br>
