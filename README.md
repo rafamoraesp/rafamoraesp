@@ -9,5 +9,5 @@ I practice Programming Logic, practicing the Javascript and Java languages. I al
 <br>
 Where to find me:  
 
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="rafamoraesp" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/rafaelmoraesp?trk=profile-badge">Rafael Moraes</a></div>
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="rafamoraesp" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/rafaelmoraesp?trk=profile-badge" target="_blank">Rafael Moraes</a></div>
               
