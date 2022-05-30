@@ -3,7 +3,7 @@ I practice Programming Logic, practicing the Javascript and Java languages. I al
 <br>
 <br>
 <br>
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rafamoraesp&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true"/> <p>&nbsp;&nbsp;&nbsp;</p> <img src="https://github-readme-stats.vercel.app/api?username=rafamoraesp&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rafamoraesp&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true"/> <p>&nbsp;</p> <img src="https://github-readme-stats.vercel.app/api?username=rafamoraesp&show_icons=true&theme=tokyonight"/>
 <br>
 <br>
 <br>
